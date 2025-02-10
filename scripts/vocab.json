@@ -1,0 +1,890 @@
+[
+  {
+    "Grec": "ειν",
+    "Translittération": "ein",
+    "Français": "être",
+    "Sym": "𐀁"
+  },
+  {
+    "Grec": "αντ",
+    "Translittération": "ant",
+    "Français": "COD",
+    "Sym": "𐀤"
+  },
+  {
+    "Grec": "πλα",
+    "Translittération": "pla",
+    "Français": "contexte",
+    "Sym": "𐀳"
+  },
+  {
+    "Grec": "ιδι",
+    "Translittération": "idi",
+    "Français": "connaissance par soi-même (évidence directe)",
+    "Sym": "𐤀"
+  },
+  {
+    "Grec": "απο",
+    "Translittération": "apo",
+    "Français": "savoir indirect (évidence indirecte)",
+    "Sym": "𐌀"
+  },
+  {
+    "Grec": "ἐπιφωνή",
+    "Translittération": "epiphone",
+    "Français": "interjection",
+    "Sym": "ᚠ"
+  },
+  {
+    "Grec": "σαύρα",
+    "Translittération": "savra",
+    "Français": "lézard ou reptile",
+    "Sym": "∑"
+  },
+  {
+    "Grec": "οὐ",
+    "Translittération": "ou",
+    "Français": "non, pas, zéro",
+    "Sym": "→"
+  },
+  {
+    "Grec": "διώκω",
+    "Translittération": "dioko",
+    "Français": "chasser",
+    "Sym": "●"
+  },
+  {
+    "Grec": "πᾶς",
+    "Translittération": "pas",
+    "Français": "tous, 100",
+    "Sym": "𐊀"
+  },
+  {
+    "Grec": "ταπεινός",
+    "Translittération": "tapeinos",
+    "Français": "bas, humble",
+    "Sym": "𐤁"
+  },
+  {
+    "Grec": "ἕτερος",
+    "Translittération": "heteros",
+    "Français": "différent, autre",
+    "Sym": "𐌁"
+  },
+  {
+    "Grec": "ἢ",
+    "Translittération": "ē",
+    "Français": "ou",
+    "Sym": "ᚡ"
+  },
+  {
+    "Grec": "αἰσχύνη",
+    "Translittération": "aischune",
+    "Français": "(peu commun) honte, culpabilité",
+    "Sym": "∏"
+  },
+  {
+    "Grec": "ὑπομένω",
+    "Translittération": "hypomeno",
+    "Français": "endurer, attendre, continuer",
+    "Sym": "↔"
+  },
+  {
+    "Grec": "καί",
+    "Translittération": "kai",
+    "Français": "et",
+    "Sym": "○"
+  },
+  {
+    "Grec": "ἔπος",
+    "Translittération": "epos",
+    "Français": "(humoristique) épique",
+    "Sym": "𐊁"
+  },
+  {
+    "Grec": "ἀγορά",
+    "Translittération": "agora",
+    "Français": "marché, commerce",
+    "Sym": "𐤂"
+  },
+  {
+    "Grec": "πρᾶγμα",
+    "Translittération": "pragma",
+    "Français": "chose, objet, affaire",
+    "Sym": "𐌂"
+  },
+  {
+    "Grec": "κακός",
+    "Translittération": "kakos",
+    "Français": "mauvais, superflu",
+    "Sym": "ᚢ"
+  },
+  {
+    "Grec": "αὐτός",
+    "Translittération": "autos",
+    "Français": "(archaïque, obscur) il, elle, cela, ils, elles",
+    "Sym": "𐊃"
+  },
+  {
+    "Grec": "ἐργαλεῖον",
+    "Translittération": "ergaleion",
+    "Français": "outil, dispositif",
+    "Sym": "∫"
+  },
+  {
+    "Grec": "ἔσω",
+    "Translittération": "eso",
+    "Français": "intérieur, estomac",
+    "Sym": "↑"
+  },
+  {
+    "Grec": "βρώμικος",
+    "Translittération": "bromikos",
+    "Français": "sale, dégoûtant",
+    "Sym": "■"
+  },
+  {
+    "Grec": "ἄνθρωπος",
+    "Translittération": "anthropos",
+    "Français": "personne, humain",
+    "Sym": "𐊂"
+  },
+  {
+    "Grec": "καθρέφτης",
+    "Translittération": "kathreptes",
+    "Français": "(peu commun) réflexion, miroir",
+    "Sym": "𐤃"
+  },
+  {
+    "Grec": "ξανθός",
+    "Translittération": "xanthos",
+    "Français": "jaune, vert clair",
+    "Sym": "𐌃"
+  },
+  {
+    "Grec": "ἔχω",
+    "Translittération": "echo",
+    "Français": "avoir, tenir",
+    "Sym": "ᚣ"
+  },
+  {
+    "Grec": "ἰχθύς",
+    "Translittération": "ichthys",
+    "Français": "poisson, créature marine",
+    "Sym": "√"
+  },
+  {
+    "Grec": "φωνή",
+    "Translittération": "phone",
+    "Français": "son, bruit, réciter",
+    "Sym": "↓"
+  },
+  {
+    "Grec": "ἔρχομαι",
+    "Translittération": "erchomai",
+    "Français": "venir, devenir",
+    "Sym": "□"
+  },
+  {
+    "Grec": "σὺν",
+    "Translittération": "syn",
+    "Français": "(archaïque, obscur) avec, ensemble",
+    "Sym": "𐊃"
+  },
+  {
+    "Grec": "λόφος",
+    "Translittération": "lofos",
+    "Français": "(archaïque, obscur) bosse, colline",
+    "Sym": "𐤄"
+  },
+  {
+    "Grec": "φαιός",
+    "Translittération": "phaios",
+    "Français": "(rare) brun, gris",
+    "Sym": "𐌄"
+  },
+  {
+    "Grec": "φυτόν",
+    "Translittération": "phyton",
+    "Français": "plante",
+    "Sym": "ᚤ"
+  },
+  {
+    "Grec": "δύναμαι",
+    "Translittération": "dunamai",
+    "Français": "pouvoir, possible",
+    "Sym": "∞"
+  },
+  {
+    "Grec": "χρησιμοποιῶ",
+    "Translittération": "chresimo",
+    "Français": "en utilisant",
+    "Sym": "↔"
+  },
+  {
+    "Grec": "ρακούν",
+    "Translittération": "rakoun",
+    "Français": "raton laveur",
+    "Sym": "𐊄"
+  },
+  {
+    "Grec": "καρπός",
+    "Translittération": "karpos",
+    "Français": "fruit, légume",
+    "Sym": "𐤅"
+  },
+  {
+    "Grec": "ὡσαύτως",
+    "Translittération": "hosautos",
+    "Français": "aussi, également",
+    "Sym": "𐌅"
+  },
+  {
+    "Grec": "μερίζω",
+    "Translittération": "merizo",
+    "Français": "couper, diviser, partie",
+    "Sym": "ᚥ"
+  },
+  {
+    "Grec": "πέτρα",
+    "Translittération": "petra",
+    "Français": "dur, solide, pierre",
+    "Sym": "∆"
+  },
+  {
+    "Grec": "σκόνη",
+    "Translittération": "skone",
+    "Français": "pâte, poudre",
+    "Sym": "↕"
+  },
+  {
+    "Grec": "ἑτερογλωσσῶ",
+    "Translittération": "heteroglosso",
+    "Français": "(peu commun, humoristique) parler une autre langue quand le Toki Pona serait plus approprié",
+    "Sym": "△"
+  },
+  {
+    "Grec": "πνεῦμα",
+    "Translittération": "pneuma",
+    "Français": "air, esprit",
+    "Sym": "𐊅"
+  },
+  {
+    "Grec": "χρώμα",
+    "Translittération": "chroma",
+    "Français": "couleur, peint",
+    "Sym": "𐤆"
+  },
+  {
+    "Grec": "κοινότης",
+    "Translittération": "koinotes",
+    "Français": "groupe, communauté",
+    "Sym": "𐌆"
+  },
+  {
+    "Grec": "ἀκούω",
+    "Translittération": "akouo",
+    "Français": "oreille, entendre, écouter, obéir",
+    "Sym": "ᚦ"
+  },
+  {
+    "Grec": "λαμβάνω",
+    "Translittération": "lambano",
+    "Français": "saisir, prendre, voler",
+    "Sym": "∂"
+  },
+  {
+    "Grec": "καθεύδω",
+    "Translittération": "katheudo",
+    "Français": "dormir, se reposer",
+    "Sym": "↖"
+  },
+  {
+    "Grec": "κύανος",
+    "Translittération": "kyanos",
+    "Français": "bleu, vert",
+    "Sym": "▼"
+  },
+  {
+    "Grec": "κεφαλή",
+    "Translittération": "kephale",
+    "Français": "tête, esprit, contrôler, mener",
+    "Sym": "𐊆"
+  },
+  {
+    "Grec": "τετράγωνον",
+    "Translittération": "tetragonon",
+    "Français": "bloc, carré",
+    "Sym": "𐤇"
+  },
+  {
+    "Grec": "ὑφαστόν",
+    "Translittération": "hyphaston",
+    "Français": "tissu, vêtement, couverture, intimité",
+    "Sym": "𐌇"
+  },
+  {
+    "Grec": "ψυχρός",
+    "Translittération": "psychros",
+    "Français": "froid, frais, cru",
+    "Sym": "ᚧ"
+  },
+  {
+    "Grec": "μικρός",
+    "Translittération": "mikros",
+    "Français": "petit, jeune",
+    "Sym": "⊕"
+  },
+  {
+    "Grec": "νήμα",
+    "Translittération": "nema",
+    "Français": "ligne, ficelle, cheveu",
+    "Sym": "↗"
+  },
+  {
+    "Grec": "πάπυρος",
+    "Translittération": "papyros",
+    "Français": "objet plat, papier, document",
+    "Sym": "▽"
+  },
+  {
+    "Grec": "ἐρυθρός",
+    "Translittération": "erythros",
+    "Français": "rouge",
+    "Sym": "𐊇"
+  },
+  {
+    "Grec": "ὤν",
+    "Translittération": "on",
+    "Français": "à, dans, sur, réel, vrai, exister",
+    "Sym": "𐤈"
+  },
+  {
+    "Grec": "χείρ",
+    "Translittération": "cheir",
+    "Français": "main, bras, cinq",
+    "Sym": "𐌈"
+  },
+  {
+    "Grec": "ὀφθαλμός",
+    "Translittération": "ophthalmos",
+    "Français": "œil, voir, regarder, essayer",
+    "Sym": "ᚨ"
+  },
+  {
+    "Grec": "πόρος",
+    "Translittération": "poros",
+    "Français": "trou, porte, orifice, fenêtre",
+    "Sym": "⊗"
+  },
+  {
+    "Grec": "γῆ",
+    "Translittération": "ge",
+    "Français": "terre, pays",
+    "Sym": "↘"
+  },
+  {
+    "Grec": "πρόγονος",
+    "Translittération": "progonos",
+    "Français": "parent, ancêtre, créateur, gardien",
+    "Sym": "◆"
+  },
+  {
+    "Grec": "πλοῦτος",
+    "Translittération": "ploutos",
+    "Français": "argent, richesse, bétail",
+    "Sym": "𐊈"
+  },
+  {
+    "Grec": "γυνή",
+    "Translittération": "gyne",
+    "Français": "femme, féminin, épouse",
+    "Sym": "𐤉"
+  },
+  {
+    "Grec": "μέσος",
+    "Translittération": "mesos",
+    "Français": "moyen, médium",
+    "Sym": "𐌉"
+  },
+  {
+    "Grec": "ἐγώ",
+    "Translittération": "ego",
+    "Français": "je, moi, nous",
+    "Sym": "ᚩ"
+  },
+  {
+    "Grec": "ἀνήρ",
+    "Translittération": "aner",
+    "Français": "homme, masculin, mari",
+    "Sym": "ᚪ"
+  },
+  {
+    "Grec": "φάρμακον",
+    "Translittération": "pharmakon",
+    "Français": "médicament, guérison",
+    "Sym": "⊥"
+  },
+  {
+    "Grec": "ἐσθίω",
+    "Translittération": "esthio",
+    "Français": "manger, consommer, nourriture",
+    "Sym": "↙"
+  },
+  {
+    "Grec": "θνῄσκω",
+    "Translittération": "thnesko",
+    "Français": "mort, mourir, décès, tuer",
+    "Sym": "◇"
+  },
+  {
+    "Grec": "ὄπισθεν",
+    "Translittération": "opisthen",
+    "Français": "arrière, dos",
+    "Sym": "𐤊"
+  },
+  {
+    "Grec": "τέρας",
+    "Translittération": "teras",
+    "Français": "monstre, peur, danger, effrayant",
+    "Sym": "𐌊"
+  },
+  {
+    "Grec": "ζῷον",
+    "Translittération": "zoon",
+    "Français": "animal",
+    "Sym": "⟲"
+  },
+  {
+    "Grec": "σελήνη",
+    "Translittération": "selene",
+    "Français": "lune, objet du ciel nocturne",
+    "Sym": "⇨"
+  },
+  {
+    "Grec": "ψυχαγωγία",
+    "Translittération": "psychagogia",
+    "Français": "amusement, jeu, récréation, art, divertissement",
+    "Sym": "★"
+  },
+  {
+    "Grec": "πολύς",
+    "Translittération": "polus",
+    "Français": "beaucoup, très, plusieurs, abondant, nombreux, plus",
+    "Sym": "☆"
+  },
+  {
+    "Grec": "ἠ",
+    "Translittération": "eh",
+    "Français": "euh, hmm",
+    "Sym": "•"
+  },
+  {
+    "Grec": "πρόσθετος",
+    "Translittération": "prosthetos",
+    "Français": "suppléant, additionnel, épice, saison, embellir",
+    "Sym": "◦"
+  },
+  {
+    "Grec": "ἀριθμός",
+    "Translittération": "arithmos",
+    "Français": "nombre",
+    "Sym": "▹"
+  },
+  {
+    "Grec": "παράξενος",
+    "Translittération": "paraxenos",
+    "Français": "étrange, idiot, ivre, (non standard, proscrit) fou, cinglé",
+    "Sym": "▸"
+  },
+  {
+    "Grec": "μέθοδος",
+    "Translittération": "methodos",
+    "Français": "manière, coutume, route, chemin, doctrine, système, méthode",
+    "Sym": "◂"
+  },
+  {
+    "Grec": "κορυφή",
+    "Translittération": "koryphe",
+    "Français": "bosse, colline, montagne, bouton, nez",
+    "Sym": "◃"
+  },
+  {
+    "Grec": "οὗτος",
+    "Translittération": "houtos",
+    "Français": "ceci, cela",
+    "Sym": "⬢"
+  },
+  {
+    "Grec": "λόγος",
+    "Translittération": "logos",
+    "Français": "mot, nom",
+    "Sym": "⬡"
+  },
+  {
+    "Grec": "πούς",
+    "Translittération": "pous",
+    "Français": "jambe, pied, organe de locomotion ; base",
+    "Sym": "⬣"
+  },
+  {
+    "Grec": "ὀφθαλμέ",
+    "Translittération": "ophthalme",
+    "Français": "(vocatif ou impératif) œil",
+    "Sym": "𐊀"
+  },
+  {
+    "Grec": "ἀγάπη",
+    "Translittération": "agape",
+    "Français": "amour, respect",
+    "Sym": "𐊁"
+  },
+  {
+    "Grec": "ἐκεῖνος",
+    "Translittération": "ekeinos",
+    "Français": "il, elle, cela, ils, elles",
+    "Sym": "𐊂"
+  },
+  {
+    "Grec": "ἀνοίγω",
+    "Translittération": "anoigo",
+    "Français": "ouvrir, commencer",
+    "Sym": "𐊃"
+  },
+  {
+    "Grec": "σφάλμα",
+    "Translittération": "sphalma",
+    "Français": "bévue, accident, erreur, destruction, dommage, casser",
+    "Sym": "𐊄"
+  },
+  {
+    "Grec": "ποιέω",
+    "Translittération": "poieo",
+    "Français": "faire, activité, travail, acte, projet",
+    "Sym": "𐊅"
+  },
+  {
+    "Grec": "ῥάβδος",
+    "Translittération": "rhabdos",
+    "Français": "objet long et dur (ex. tige, bâton, branche)",
+    "Sym": "𐊆"
+  },
+  {
+    "Grec": "σῖτος",
+    "Translittération": "sitos",
+    "Français": "grain, céréale ; pain, pâtes",
+    "Sym": "𐊇"
+  },
+  {
+    "Grec": "δίδωμι",
+    "Translittération": "dido",
+    "Français": "donner, mettre, envoyer, placer, libérer, émettre",
+    "Sym": "𐊈"
+  },
+  {
+    "Grec": "εὐκόλως",
+    "Translittération": "eukolos",
+    "Français": "(archaïque, obscur) facile",
+    "Sym": "𐊉"
+  },
+  {
+    "Grec": "ἀδελφός",
+    "Translittération": "adelphos",
+    "Français": "(archaïque, obscur) frère/soeur",
+    "Sym": "𐊊"
+  },
+  {
+    "Grec": "τροποποιός",
+    "Translittération": "tropopoios",
+    "Français": "marqueur de phrase modificateur",
+    "Sym": "𐊋"
+  },
+  {
+    "Grec": "καρδία",
+    "Translittération": "kardia",
+    "Français": "sentiments, émotion, cœur",
+    "Sym": "𐊌"
+  },
+  {
+    "Grec": "μέλας",
+    "Translittération": "melas",
+    "Français": "noir, sombre, ombre",
+    "Sym": "𐊍"
+  },
+  {
+    "Grec": "τέλος",
+    "Translittération": "telos",
+    "Français": "fin, terminer, arrêter, passé",
+    "Sym": "𐊎"
+  },
+  {
+    "Grec": "ἔντομον",
+    "Translittération": "entomon",
+    "Français": "insecte",
+    "Sym": "𐊏"
+  },
+  {
+    "Grec": "τέτταρα",
+    "Translittération": "tetta",
+    "Français": "(archaïque, obscur) quatre",
+    "Sym": "𐊐"
+  },
+  {
+    "Grec": "πλευρά",
+    "Translittération": "pleura",
+    "Français": "côté, hanche, à côté, proximité",
+    "Sym": "𐊑"
+  },
+  {
+    "Grec": "κιβωτός",
+    "Translittération": "kibotos",
+    "Français": "contenant, boîte, bol",
+    "Sym": "𐊒"
+  },
+  {
+    "Grec": "χρηστός",
+    "Translittération": "chrestos",
+    "Français": "bon, simple, utile",
+    "Sym": "𐊓"
+  },
+  {
+    "Grec": "ψευδής",
+    "Translittération": "pseudes",
+    "Français": "(peu commun) faux, factice, trompeur",
+    "Sym": "𐊔"
+  },
+  {
+    "Grec": "Τοκιπόνη",
+    "Translittération": "tokipone",
+    "Français": "relatif à « Toki Pona : La Langue du Bien »",
+    "Sym": "𐤋"
+  },
+  {
+    "Grec": "ὅμοιος",
+    "Translittération": "homoios",
+    "Français": "même, similaire, égal, comme",
+    "Sym": "𐤌"
+  },
+  {
+    "Grec": "πῦρ",
+    "Translittération": "pyr",
+    "Français": "feu, chaleur",
+    "Sym": "𐤍"
+  },
+  {
+    "Grec": "ἔξω",
+    "Translittération": "exo",
+    "Français": "extérieur, surface, peau, limite",
+    "Sym": "∝"
+  },
+  {
+    "Grec": "τί",
+    "Translittération": "ti",
+    "Français": "quoi, lequel",
+    "Sym": "⟲"
+  },
+  {
+    "Grec": "ὕψος",
+    "Translittération": "hypsos",
+    "Français": "haut, en haut, au-dessus, sacré",
+    "Sym": "(voir remarque ci‑dessus pour le groupe Lycien) 𐊏"
+  },
+  {
+    "Grec": "σῶμα",
+    "Translittération": "soma",
+    "Français": "corps, état physique, torse",
+    "Sym": "𐤔"
+  },
+  {
+    "Grec": "κύκλος",
+    "Translittération": "kyklos",
+    "Français": "cercle, roue, balle, année",
+    "Sym": "𐌔"
+  },
+  {
+    "Grec": "καινός",
+    "Translittération": "kainos",
+    "Français": "nouveau, frais, un autre",
+    "Sym": "ᚴ"
+  },
+  {
+    "Grec": "σύ",
+    "Translittération": "sy",
+    "Français": "toi, vous",
+    "Sym": "≈"
+  },
+  {
+    "Grec": "πρόσωπον",
+    "Translittération": "prosopon",
+    "Français": "devant, mur, poitrine, visage",
+    "Sym": "⤴"
+  },
+  {
+    "Grec": "εἰκών",
+    "Translittération": "eikon",
+    "Français": "image, écrire, dessiner",
+    "Sym": "◂"
+  },
+  {
+    "Grec": "μύκητας",
+    "Translittération": "myketas",
+    "Français": "champignon, fungus",
+    "Sym": "𐊐"
+  },
+  {
+    "Grec": "σοφία",
+    "Translittération": "sophia",
+    "Français": "savoir, information, sagesse",
+    "Sym": "𐤑"
+  },
+  {
+    "Grec": "θηρίον",
+    "Translittération": "therion",
+    "Français": "animal (surtout mammifère terrestre)",
+    "Sym": "𐌑"
+  },
+  {
+    "Grec": "μέγας",
+    "Translittération": "megas",
+    "Français": "grand, haut, long, important, adulte",
+    "Sym": "ᚱ"
+  },
+  {
+    "Grec": "ἥλιος",
+    "Translittération": "helios",
+    "Français": "soleil, lumière",
+    "Sym": "≠"
+  },
+  {
+    "Grec": "τράπεζα",
+    "Translittération": "trapeza",
+    "Français": "surface de soutien (plateforme, meuble, table, chaise)",
+    "Sym": "⤵"
+  },
+  {
+    "Grec": "γλυκύς",
+    "Translittération": "glykys",
+    "Français": "doux, mignon, sucre",
+    "Sym": "◃"
+  },
+  {
+    "Grec": "διὰ",
+    "Translittération": "dia",
+    "Français": "de, à cause de, cause",
+    "Sym": "𐊒"
+  },
+  {
+    "Grec": "μόνο",
+    "Translittération": "mono",
+    "Français": "mais, seulement",
+    "Sym": "𐤒"
+  },
+  {
+    "Grec": "βαδίζω",
+    "Translittération": "badizo",
+    "Français": "à, pour, bouger, aller",
+    "Sym": "𐌒"
+  },
+  {
+    "Grec": "ὕδωρ",
+    "Translittération": "hydor",
+    "Français": "eau, liquide, mouillé, laver, boisson",
+    "Sym": "ᚲ"
+  },
+  {
+    "Grec": "χρόνος",
+    "Translittération": "chronos",
+    "Français": "temps, moment, période, situation",
+    "Sym": "≤"
+  },
+  {
+    "Grec": "λέγω",
+    "Translittération": "lego",
+    "Français": "dire, discours, langue",
+    "Sym": "↺"
+  },
+  {
+    "Grec": "οἶκος",
+    "Translittération": "oikos",
+    "Français": "maison, bâtiment, pièce",
+    "Sym": "⬢"
+  },
+  {
+    "Grec": "ἀμφιφυλικός",
+    "Translittération": "amphiphylikos",
+    "Français": "non‑binaire",
+    "Sym": "⬡"
+  },
+  {
+    "Grec": "δύο",
+    "Translittération": "dyo",
+    "Français": "deux, diviser en deux",
+    "Sym": "𐤓"
+  },
+  {
+    "Grec": "τρεῖς",
+    "Translittération": "treis",
+    "Français": "(archaïque, obscur) trois",
+    "Sym": "𐌓"
+  },
+  {
+    "Grec": "φύλος",
+    "Translittération": "phylos",
+    "Français": "sexe, sexuel",
+    "Sym": "ᚳ"
+  },
+  {
+    "Grec": "πορφύρα",
+    "Translittération": "porphyra",
+    "Français": "(rare) pourpre",
+    "Sym": "≥"
+  },
+  {
+    "Grec": "στόμα",
+    "Translittération": "stoma",
+    "Français": "bouche, lèvres, mâchoire, oral",
+    "Sym": "↻"
+  },
+  {
+    "Grec": "μάχη",
+    "Translittération": "mache",
+    "Français": "conflit, bataille, combattre, concourir",
+    "Sym": "⬡"
+  },
+  {
+    "Grec": "λευκός",
+    "Translittération": "leukos",
+    "Français": "blanc, de couleur claire",
+    "Sym": "𐊓"
+  },
+  {
+    "Grec": "εἷς",
+    "Translittération": "heis",
+    "Français": "un, unique, unir",
+    "Sym": "𐤔"
+  },
+  {
+    "Grec": "ὄρνις",
+    "Translittération": "ornis",
+    "Français": "oiseau, animal ailé",
+    "Sym": "𐌔"
+  },
+  {
+    "Grec": "ἰσχυρός",
+    "Translittération": "ischyros",
+    "Français": "fort, puissance, énergie",
+    "Sym": "ᚴ"
+  },
+  {
+    "Grec": "μακρόθεν",
+    "Translittération": "makrothen",
+    "Français": "loin, absent, manquant",
+    "Sym": "∝"
+  },
+  {
+    "Grec": "βούλομαι",
+    "Translittération": "boulomai",
+    "Français": "vouloir, besoin, désir, devoir",
+    "Sym": "⟲"
+  }
+]
