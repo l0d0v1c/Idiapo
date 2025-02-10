@@ -403,3 +403,6 @@ print(translator.sym_to_translit('𐤀ᚩ𐀁𐊁○𐊅'))
 # Références
 * https://diogenial.com
 * Sonja Lang, Toki Pona:The Language of Good, 978-0-9782923-0-0
+
+# Cite
+[![DOI](https://zenodo.org/badge/930191536.svg)](https://doi.org/10.5281/zenodo.14843267)
